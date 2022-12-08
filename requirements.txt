@@ -1,4 +1,4 @@
-certifi==2020.4.5.1
+certifi==2022.12.7
 PyAudio==0.2.11
 SpeechRecognition==3.8.1
 wincertstore==0.2
